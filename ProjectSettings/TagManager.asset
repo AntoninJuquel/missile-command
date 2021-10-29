@@ -8,11 +8,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Missile
   - Water
   - UI
-  - 
-  - 
+  - Building
+  - EnemyMissile
   - 
   - 
   - 
